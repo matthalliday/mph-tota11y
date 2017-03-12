@@ -1,0 +1,13 @@
+{
+    "name": "matthalliday/mph-tota11y",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matt Halliday",
+            "email": "matthalliday@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {}
+}
